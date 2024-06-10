@@ -1,0 +1,32 @@
+[
+    {
+        "name": "Rex",
+        "breed": "German Shepherd",
+        "age": "5 dog years",
+        "price": "USD 120"
+    },
+    {
+        "name": "Bella",
+        "breed": "Labrador Retriever",
+        "age": "3 dog years",
+        "price": "USD 100"
+    },
+    {
+        "name": "Charlie",
+        "breed": "Beagle",
+        "age": "4 dog years",
+        "price": "USD 80"
+    },
+    {
+        "name": "Max",
+        "breed": "Bulldog",
+        "age": "6 dog years",
+        "price": "USD 150"
+    },
+    {
+        "name": "Lucy",
+        "breed": "Poodle",
+        "age": "2 dog years",
+        "price": "USD 200"
+    }
+]
